@@ -42,5 +42,3 @@
 이름1 – [이메일 주소1](mailto:이메일주소@example.com)  
 이름2 - [이메일 주소2](mailto:이메일주소@example.com)  
 
-XYZ license를 준수합니다. ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.  
-(예시) [https://github.com/yourname/github-link/LICENSE.md](https://github.com/ohahohah/)
